@@ -14,8 +14,31 @@ namespace TP_05_4ID.Models
 
         public static void NuevoJuego()
         {
-            palabraSecreta = "PROGRAMACION";
+            // Lista de muchas palabras posibles comunes
+            List<string> palabrasPosibles = new List<string>
+{
+    "CASA", "PERRO", "GATO", "JARDIN", "CIELO", "TERRAZA", "HOGAR", "AMIGO", "FAMILIA", "TRABAJO",
+    "ESCUELA", "LIBRO", "MUSICA", "PELICULA", "CINE", "CARRERA", "MOTOR", "CAMINO", "RUTA", "PAIS",
+    "CIUDAD", "FIESTA", "DIA", "NOCHE", "LUNA", "SOL", "ESTRELLA", "VEHICULO", "BICICLETA", "TREN",
+    "AUTOMOVIL", "AVION", "MAR", "MONTAÑA", "VALLE", "LAGO", "RIO", "CAMPO", "AGUA", "FUEGO", "TIERRA",
+    "AIRE", "TRISTEZA", "FELICIDAD", "ALEGRIA", "SUEÑO", "REALIDAD", "VIAJE", "VACACIONES", "CUMPLEANOS",
+    "NAVIDAD", "AÑO", "MES", "SEMANA", "HORA", "MINUTO", "SEGUNDO", "FECHA", "TIEMPO", "AMOR", "ODIO",
+    "MUNDO", "TIERRA", "UNIVERSO", "CORAZON", "ALMA", "MENTE", "CUERPO", "FOTO", "VIDEO", "PAZ",
+    "GUERRA", "CULTURA", "HISTORIA", "TURISMO", "AVENTURA", "LUCHA", "PELEA", "DEPORTE", "FUTBOL",
+    "BALON", "JUGADOR", "ENTRENADOR", "EQUIPO", "COPA", "MEDALLA", "CAMPEON", "JUEGO", "PAREJA",
+    "RELACION", "CIEGO", "SORDO", "MUDO", "PERSONA", "AMIGA", "VECINO", "EXTRAÑO", "HOMBRE",
+    "MUJER", "NIÑO", "NIÑA", "ADULTO", "VIEJO", "JOVEN", "NACIMIENTO", "MUERTE", "DOLOR", "FELIZ",
+    "SAD", "AGRADECIDO", "ASUSTADO", "EMOCIONADO", "SENTIMIENTO", "FELICIDAD", "CORRER", "CANTAR",
+    "BAILAR", "LEER", "ESCRIBIR", "DIBUJAR", "PINTAR", "CANTANTE", "PINTOR", "ESCRITOR", "ARTISTA",
+    "DESEAR", "ENAMORADO", "FLORES", "JUEGOS", "PELICULAS", "ESTUDIOS", "TRABAJO", "MOTIVACION",
+    "ESTILO", "FELICIDAD", "DECISION", "CAMBIO", "OPINION", "SENTIR", "CREER", "PENSAR", "IMAGINAR"
+};
+
+            Random random = new Random();
+            palabraSecreta = palabrasPosibles[random.Next(palabrasPosibles.Count)];
+
             palabraParcial = new string('_', palabraSecreta.Length).ToCharArray();
+
             letrasUsadas = new List<char>();
             intentos = 0;
             finalizado = false;

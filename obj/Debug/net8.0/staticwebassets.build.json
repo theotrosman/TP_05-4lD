@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pZ41yvodLwFPkIL2uB9hjD1PWEb5Cm9XwZc7qre8OFc=",
+  "Hash": "YmeYLm9YYCIBzjZdV8QbwOO0xkTHQ3sjVLNnKyuAZLs=",
   "Source": "TP_05-4ID",
   "BasePath": "_content/TP_05-4ID",
   "Mode": "Default",
@@ -53,25 +53,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\wwwroot\\img\\ahorcado.png",
-      "SourceId": "TP_05-4ID",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\wwwroot\\",
-      "BasePath": "_content/TP_05-4ID",
-      "RelativePath": "img/ahorcado.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\ahorcado.png"
     },
     {
       "Identity": "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\wwwroot\\js\\site.js",

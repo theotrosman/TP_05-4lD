@@ -24,14 +24,9 @@
 
         <p>
             Letras utilizadas:
-            @if (ViewBag.Letras != null)
-            {
+
                 @string.Join(", ", (List<char>)ViewBag.Letras)
-            }
-            else
-            {
-                @( "ninguna" )
-            }
+
         </p>
 
         @if (ViewBag.Finalizado == true)
