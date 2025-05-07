@@ -21,19 +21,29 @@
 
     <main>
         <h2>Palabra: @ViewBag.Palabra</h2>
-        <p>Letras utilizadas: @string.Join(", ", (List<char>)ViewBag.Letras)</p>
 
-        @if ((bool)ViewBag.Finalizado)
+        <p>
+            Letras utilizadas:
+            @if (ViewBag.Letras != null)
+            {
+                @string.Join(", ", (List<char>)ViewBag.Letras)
+            }
+            else
+            {
+                @( "ninguna" )
+            }
+        </p>
+
+        @if (ViewBag.Finalizado == true)
         {
             <h3>
-                @if ((bool)ViewBag.Gano)
+                @if (ViewBag.Gano == true)
                 {
-                  <a href="@Url.Action("Ganar", "Home")">Comenzar Juego</a>
-
+                    <a href="@Url.Action("Ganar", "Home")">Comenzar Juego</a>
                 }
                 else
                 {
-                 <a href="@Url.Action("Perder", "Home")">Comenzar Juego</a>
+                    <a href="@Url.Action("Perder", "Home")">Comenzar Juego</a>
                 }
             </h3>
         }
