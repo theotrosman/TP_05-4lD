@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Juego del Ahorcado";
+}
+
+<body>
+    <header>
+        <h1>Juego del Ahorcado</h1>
+
+        <form action="@Url.Action("ArriesgarLetra", "Home")">
+            <label for="letraarriesgada">Arriesgar Letra</label><br>
+            <input type="text" name="letraarriesgada" maxlength="1"><br>
+            <input type="submit" value="Enviar Letra">
+        </form>
+
+        <form action="@Url.Action("ArriesgarPalabra", "Home")">
+            <label for="palabraarriesgada">Arriesgar Palabra</label><br>
+            <input type="text" name="palabraarriesgada"><br>
+            <input type="submit" value="Enviar Palabra">
+        </form>
+    </header>
+
+    <main>
+        <h2>Palabra: @ViewBag.Palabra</h2>
+        <p>Letras utilizadas: @string.Join(", ", (List<char>)ViewBag.Letras)</p>
+
+        @if ((bool)ViewBag.Finalizado)
+        {
+            <h3>
+                @if ((bool)ViewBag.Gano)
+                {
+                  <a href="@Url.Action("Ganar", "Home")">Comenzar Juego</a>
+
+                }
+                else
+                {
+                 <a href="@Url.Action("Perder", "Home")">Comenzar Juego</a>
+                }
+            </h3>
+        }
+    </main>
+
+    <footer>
+    </footer>
+</body>
