@@ -42,24 +42,13 @@ public class HomeController : Controller
 
     public IActionResult ArriesgarLetra(string letraarriesgada)
     {
-        if (string.IsNullOrEmpty(letraarriesgada) || letraarriesgada.Length > 1)
-        {
-            ModelState.AddModelError("letraarriesgada", "Debe ingresar solo una letra.");
-            return View("Jugar");
-        }
 
         Juego.ArriesgarLetra(letraarriesgada[0]);
-        return RedirectToAction("Jugar");
+        return View("Jugar");
     }
 
     public IActionResult ArriesgarPalabra(string palabraarriesgada)
     {
-        if (string.IsNullOrEmpty(palabraarriesgada))
-        {
-            ModelState.AddModelError("palabraarriesgada", "Debe ingresar una palabra.");
-            return View("Jugar");
-        }
-
         Juego.ArriesgarPalabra(palabraarriesgada);
         return RedirectToAction("Jugar");
     }
