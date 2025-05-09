@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\TP_05-4ID.csproj": {}
+    "C:\\Users\\49092919\\Downloads\\TP_05-4ID\\TP_05-4lD\\TP_05-4ID.csproj": {}
   },
   "projects": {
-    "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\TP_05-4ID.csproj": {
+    "C:\\Users\\49092919\\Downloads\\TP_05-4ID\\TP_05-4lD\\TP_05-4ID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\TP_05-4ID.csproj",
+        "projectUniqueName": "C:\\Users\\49092919\\Downloads\\TP_05-4ID\\TP_05-4lD\\TP_05-4ID.csproj",
         "projectName": "TP_05-4ID",
-        "projectPath": "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\TP_05-4ID.csproj",
+        "projectPath": "C:\\Users\\49092919\\Downloads\\TP_05-4ID\\TP_05-4lD\\TP_05-4ID.csproj",
         "packagesPath": "C:\\Users\\49092919\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\49092919\\Downloads\\TP_05-4lD-master\\TP_05-4ID\\obj\\",
+        "outputPath": "C:\\Users\\49092919\\Downloads\\TP_05-4ID\\TP_05-4lD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

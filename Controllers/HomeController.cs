@@ -44,7 +44,7 @@ public class HomeController : Controller
     {
 
         Juego.ArriesgarLetra(letraarriesgada[0]);
-        return View("Jugar");
+        return RedirectToAction("Jugar");
     }
 
     public IActionResult ArriesgarPalabra(string palabraarriesgada)

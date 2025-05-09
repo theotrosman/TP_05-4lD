@@ -8,6 +8,7 @@ namespace TP_05_4ID.Models
         private static string palabraSecreta = "PROGRAMACION";
         private static char[] palabraParcial;
         private static List<char> letrasUsadas;
+
         private static int intentos;
         private static bool finalizado;
         private static bool gano;
@@ -76,7 +77,6 @@ namespace TP_05_4ID.Models
             }
 
             if (!acerto) intentos++;
-
             if (!new string(palabraParcial).Contains('_'))
             {
                 finalizado = true;

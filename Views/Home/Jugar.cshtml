@@ -2,6 +2,7 @@
     ViewData["Title"] = "Juego del Ahorcado";
 }
 
+
 <body>
     <header>
         <h1>Juego del Ahorcado</h1>
@@ -20,14 +21,15 @@
     </header>
 
     <main>
+    <img src="/img/ahorcado@(ViewBag.Intentos+1).png" alt="Ahorcado" class="imagenahorcado">
         <h2>Palabra: @ViewBag.Palabra</h2>
 
-        <p>
+        <h2>
             Letras utilizadas:
 
                 @string.Join(", ", (List<char>)ViewBag.Letras)
 
-        </p>
+        </h2>
 
         @if (ViewBag.Finalizado == true)
         {
