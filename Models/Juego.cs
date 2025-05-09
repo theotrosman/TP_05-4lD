@@ -36,10 +36,11 @@ namespace TP_05_4ID.Models
 };
 
             Random random = new Random();
-            palabraSecreta = palabrasPosibles[random.Next(palabrasPosibles.Count)];
 
-            palabraParcial = new string('_', palabraSecreta.Length).ToCharArray();
-
+            char[] palabraParcial = new char[palabraSecreta.Length];
+            for (int i = 0; i < palabra.Length; i++) {
+            palabraParcial[i] = '_';
+            }
             letrasUsadas = new List<char>();
             intentos = 0;
             finalizado = false;
