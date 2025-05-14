@@ -3,11 +3,7 @@ html {
   min-height: 100%;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
+
 
 *
 {
@@ -28,7 +24,7 @@ footer
   height: auto;
   margin-top: -25%;
 }
-main
+main,header
 {
   font-family: 'Poppins', sans-serif;
 }
@@ -53,4 +49,60 @@ main h2
   margin-left: 35%;
   margin-top: 4%;
   font-size: 25px;
+}
+.mainindex div
+{
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 5%;
+}
+.mainindex div a
+{
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+.mainindex h1
+{
+  margin-top: 5%;
+  margin-bottom: -2%;
+}
+.mainperder img
+{
+  margin-top: 30%;
+  width: 80%;
+  height: auto;
+  margin-right: -90%;
+}
+
+.mainperder
+{
+  display: inline-block;
+  position: relative;
+}
+
+.mainperder div
+{
+  border-radius: 10px;
+  border: 2px solid black;
+  position: absolute;
+  margin-left: 140%;
+  margin-top: 10%;
+}
+
+.mainperder div a
+{
+  font-size: 45px;
+  text-decoration: none;
+  color: black;
+}
+header h2
+{
+  font-size: 50px;
+  color: rgb(177, 57, 57);
+  text-align: center;
+  margin-right: 35%;
 }

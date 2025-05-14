@@ -6,8 +6,7 @@
 <body>
     <header>
         <h1>Juego del Ahorcado</h1>
-
-        <form action="@Url.Action("ArriesgarLetra", "Home")">
+<form action="@Url.Action("ArriesgarLetra", "Home")">
             <label for="letraarriesgada">Arriesgar Letra</label><br>
             <input type="text" name="letraarriesgada" maxlength="1"><br>
             <input type="submit" value="Enviar Letra">
@@ -18,10 +17,12 @@
             <input type="text" name="palabraarriesgada"><br>
             <input type="submit" value="Enviar Palabra">
         </form>
+        
     </header>
 
     <main>
     <img src="/img/ahorcado@(ViewBag.Intentos+1).png" alt="Ahorcado" class="imagenahorcado">
+    
         <h2>Palabra: @ViewBag.Palabra</h2>
 
         <h2>

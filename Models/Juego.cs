@@ -35,12 +35,16 @@ namespace TP_05_4ID.Models
     "ESTILO", "FELICIDAD", "DECISION", "CAMBIO", "OPINION", "SENTIR", "CREER", "PENSAR", "IMAGINAR"
 };
 
-            Random random = new Random();
 
-            char[] palabraParcial = new char[palabraSecreta.Length];
-            for (int i = 0; i < palabra.Length; i++) {
-            palabraParcial[i] = '_';
+            Random random = new Random();
+            palabraSecreta = palabrasPosibles[random.Next(palabrasPosibles.Count)]; // Sacado de Reddit
+
+            palabraParcial = new char[palabraSecreta.Length];
+            for (int i = 0; i < palabraSecreta.Length; i++)
+            {
+                palabraParcial[i] = '_';
             }
+
             letrasUsadas = new List<char>();
             intentos = 0;
             finalizado = false;
