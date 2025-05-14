@@ -60,6 +60,7 @@ public class HomeController : Controller
 
     public IActionResult Perder()
     {
+        ViewBag.PalabraSecreta = Juego.GetPalabraSecreta();
         return View();
     }
 

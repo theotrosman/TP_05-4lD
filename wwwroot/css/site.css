@@ -3,55 +3,52 @@ html {
   min-height: 100%;
 }
 
-
-
-*
-{
+* {
   margin: 0%;
   padding: 0%;
   border: 0%;
 }
 
-footer
-{
+footer {
   margin-top: 5%;
   background: aliceblue;
 }
-.imagenahorcado
-{
+
+.imagenahorcado {
   float: right;
   width: 35%;
   height: auto;
   margin-top: -25%;
 }
-main,header
-{
+
+main, header {
   font-family: 'Poppins', sans-serif;
 }
-footer pre
-{
+
+footer pre {
   text-align: center;
 }
-main h1
-{
+
+main h1 {
   text-align: center;
   font-size: 50px;
 }
-main form 
-{
+
+main form {
   text-align: center;
   margin-top: 3.5%;
   font-size: 20px;
 }
-main h2
-{
+
+main h2 {
   text-align: center;
   margin-left: 35%;
   margin-top: 4%;
   font-size: 25px;
+  color: green; /* Cambié el color para reflejar la victoria */
 }
-.mainindex div
-{
+
+.mainindex div {
   border-radius: 10px;
   border: 2px solid black;
   text-align: center;
@@ -59,50 +56,89 @@ main h2
   margin-right: 35%;
   margin-top: 5%;
 }
-.mainindex div a
-{
+
+.mainindex div a {
   font-size: 30px;
   text-decoration: none;
   color: black;
 }
-.mainindex h1
-{
+
+.mainindex h1 {
   margin-top: 5%;
   margin-bottom: -2%;
 }
-.mainperder img
-{
+
+.mainperder img {
   margin-top: 30%;
   width: 80%;
   height: auto;
-  margin-right: -90%;
+  margin-right: -80%;
 }
 
-.mainperder
-{
+.mainperder {
   display: inline-block;
   position: relative;
 }
 
-.mainperder div
-{
+.mainperder div {
   border-radius: 10px;
   border: 2px solid black;
   position: absolute;
-  margin-left: 140%;
+  margin-left: 127.5%;
   margin-top: 10%;
 }
 
-.mainperder div a
-{
+.mainperder div a {
   font-size: 45px;
   text-decoration: none;
   color: black;
 }
-header h2
-{
+
+
+header h2 {
   font-size: 50px;
   color: rgb(177, 57, 57);
   text-align: center;
   margin-right: 35%;
+}
+
+header input {
+  width: 15%;
+  height: 25px;
+  background: aliceblue;
+  border-radius: 7.5px;
+}
+
+footer pre {
+  font-family: 'Courier New', Courier, monospace;
+  color: #333;
+  line-height: 1.2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin-top: 2%;
+}
+
+header h3
+{
+  text-align: center;
+  font-size: 45px;
+  color: green;
+  margin-top: 3%;
+}
+.mainganar div {
+  border-radius: 10px;
+  border: 2px solid black;
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 4.5%;
+}
+
+.mainganar div a {
+  font-size: 45px;
+  text-decoration: none;
+  color: black;
+}
+.mainganar {
+  display: inline-block;
+  padding-bottom: 10%;
 }

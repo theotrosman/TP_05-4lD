@@ -100,6 +100,10 @@ namespace TP_05_4ID.Models
                 finalizado = true;
                 gano = true;
             }
+            else if (palabra != palabraSecreta)
+            {
+                finalizado = true;
+            }
             else
             {
                 intentos += 2;
