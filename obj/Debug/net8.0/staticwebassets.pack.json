@@ -1,91 +1,91 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado1.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado1.png",
       "PackagePath": "staticwebassets\\img\\ahorcado1.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado2.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado2.png",
       "PackagePath": "staticwebassets\\img\\ahorcado2.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado3.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado3.png",
       "PackagePath": "staticwebassets\\img\\ahorcado3.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado4.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado4.png",
       "PackagePath": "staticwebassets\\img\\ahorcado4.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado5.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado5.png",
       "PackagePath": "staticwebassets\\img\\ahorcado5.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado6.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado6.png",
       "PackagePath": "staticwebassets\\img\\ahorcado6.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado7.png",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado7.png",
       "PackagePath": "staticwebassets\\img\\ahorcado7.png"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

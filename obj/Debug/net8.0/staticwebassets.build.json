@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vEUpfW61JlDNiqRhxqe9/18ldMhf68wyEuY5LFM+qFU=",
+  "Hash": "Fru5/8yUhgcErz/5hbgzpWwWe6G0jQzyR+7E/92V7mA=",
   "Source": "TP_05-4ID",
   "BasePath": "_content/TP_05-4ID",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP_05-4ID\\wwwroot",
       "Source": "TP_05-4ID",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\css\\site.css",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\favicon.ico",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado1.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado1.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado1.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado1.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado2.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado2.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado2.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado2.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado3.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado3.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado3.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado3.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado4.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado4.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado4.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado4.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado5.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado5.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado5.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado5.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado6.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado6.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado6.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado6.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\img\\ahorcado7.png",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\img\\ahorcado7.png",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "img/ahorcado7.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ahorcado7.png"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\js\\site.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP_05-4ID",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49092919\\TP_05-4lD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49092919\\Downloads\\Nueva carpeta\\TP_05-4lD\\wwwroot\\",
       "BasePath": "_content/TP_05-4ID",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
