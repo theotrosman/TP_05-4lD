@@ -15,7 +15,6 @@ namespace TP_05_4ID.Models
 
         public static void NuevoJuego()
         {
-            // Lista de muchas palabras posibles comunes
             List<string> palabrasPosibles = new List<string>
 {
     "CASA", "PERRO", "GATO", "JARDIN", "CIELO", "TERRAZA", "HOGAR", "AMIGO", "FAMILIA", "TRABAJO",
