@@ -111,3 +111,5 @@ Todos los datos del juego se almacenan durante la sesión en una **clase estáti
 **Theo Trosman**  
 Estudiante de Informática - Escuela ORT Almagro  
 _"No fue solo un juego, fue un proyecto hecho con lógica, diseño y cabeza."_  
+![image](https://github.com/user-attachments/assets/0e7ecedc-6221-4a19-adeb-16a8d3cf5283)
+
