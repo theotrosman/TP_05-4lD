@@ -8,13 +8,13 @@
         <h1>Juego del Ahorcado</h1>
 <form action="@Url.Action("ArriesgarLetra", "Home")">
             <label for="letraarriesgada">Arriesgar Letra</label><br>
-            <input type="text" name="letraarriesgada" maxlength="1"><br>
+            <input type="text" name="letraarriesgada" maxlength="1" required><br>
             <input type="submit" value="Enviar Letra">
         </form>
 
         <form action="@Url.Action("ArriesgarPalabra", "Home")">
             <label for="palabraarriesgada">Arriesgar Palabra</label><br>
-            <input type="text" name="palabraarriesgada" ><br>
+            <input type="text" name="palabraarriesgada" required><br>
             <input type="submit" value="Enviar Palabra">
         </form>
         
