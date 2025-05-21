@@ -17,7 +17,7 @@ namespace TP_05_4ID.Models
         {
             List<string> palabrasPosibles = new List<string>
 {
-    "CASA", "PERRO", "GATO", "JARDIN", "CIELO", "TERRAZA", "HOGAR", "AMIGO", "FAMILIA", "TRABAJO",
+    "CASA", "PERRO", "GATO", "JARDIN", "CIELO", "TERRAZAS", "HOGAR", "AMIGO", "FAMILIA", "TRABAJO",
     "ESCUELA", "LIBRO", "MUSICA", "PELICULA", "CINE", "CARRERA", "MOTOR", "CAMINO", "RUTA", "PAIS",
     "CIUDAD", "FIESTA", "DIA", "NOCHE", "LUNA", "SOL", "ESTRELLA", "VEHICULO", "BICICLETA", "TREN",
     "AUTOMOVIL", "AVION", "MAR", "MONTAÑA", "VALLE", "LAGO", "RIO", "CAMPO", "AGUA", "FUEGO", "TIERRA",
