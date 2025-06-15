@@ -3,7 +3,7 @@
 > Materia: Taller de Programación 2  
 > Escuela ORT, sede Almagro  
 > Año: 4to Informática  
-> Estudiante: **Theo Trosman**  
+> Estudiante: **Theo Trosman**   
 
 ---
 
