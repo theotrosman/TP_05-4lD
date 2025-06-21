@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Descripción del Proyecto
+## 🧩 Descripción del Proyecto 
 
 Este trabajo práctico consiste en el desarrollo de una aplicación web que recrea el clásico juego del **Ahorcado**, aplicando el **patrón MVC** y usando **ASP.NET Core** como framework.
 
