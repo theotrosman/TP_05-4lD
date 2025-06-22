@@ -4,7 +4,7 @@
 > Escuela ORT, sede Almagro  
 > Año: 4to Informática  
 > Estudiante: **Theo Trosman**   
-
+ 
 ---
 
 ## 🧩 Descripción del Proyecto 
